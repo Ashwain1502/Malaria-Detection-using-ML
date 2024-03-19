@@ -28,7 +28,7 @@ git clone https://github.com/yourusername/malaria-detection.git
 
 # Navigate to the project directory:
 
-Run the Jupyter Notebook malaria_detection.ipynb to train the model and perform predictions.
+Run the Jupyter Notebook malaria-cells-classification-cnn.ipynb to train the model and perform predictions.
 
 Contributors
 Ashwani Kumar (ashwink1502@gmail.com)
