@@ -24,7 +24,7 @@ The project utilizes a convolutional neural network (CNN) architecture to classi
 * Usage
 
 # Clone the repository to your local machine:
-[git clone https://github.com/yourusername/malaria-detection.git](https://github.com/Ashwain1502/IQ_Gateway.git)
+[git clone https://github.com/Ashwain1502/Malaria-Detection-using-ML.git]
 
 # Navigate to the project directory:
 
