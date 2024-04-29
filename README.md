@@ -1,6 +1,3 @@
-# IQ_Gateway
-This is the task given by IQ gateway for the interview process.
-
 # Malaria Detection System
 This project is aimed at detecting malaria in blood smear images using deep learning techniques. Malaria is a life-threatening disease caused by parasites transmitted to humans through the bites of infected female Anopheles mosquitoes. Early detection of malaria is crucial for effective treatment and prevention of complications.
 
