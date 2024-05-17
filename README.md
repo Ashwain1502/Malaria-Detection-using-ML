@@ -1,5 +1,5 @@
 # Malaria Detection System
-This project is aimed at detecting malaria in blood smear images using deep learning techniques. Malaria is a life-threatening disease caused by parasites transmitted to humans through the bites of infected female Anopheles mosquitoes. Early detection of malaria is crucial for effective treatment and prevention of complications.
+This project aims at detecting malaria in blood smear images using deep learning techniques. Malaria is a life-threatening disease caused by parasites transmitted to humans through the bites of infected female Anopheles mosquitoes. Early detection of malaria is crucial for effective treatment and prevention of complications.
 
 # Overview
 The project utilizes a convolutional neural network (CNN) architecture to classify blood smear images as infected or uninfected with malaria parasites. The CNN model is trained on a dataset consisting of thousands of annotated blood smear images obtained from patients diagnosed with malaria.
