@@ -24,8 +24,7 @@ The project utilizes a convolutional neural network (CNN) architecture to classi
 [git clone https://github.com/Ashwain1502/Malaria-Detection-using-ML.git]
 
 # Navigate to the project directory:
-
 Run the Jupyter Notebook malaria-cells-classification-cnn.ipynb to train the model and perform predictions.
 
-Contributors
-Ashwani Kumar (ashwink1502@gmail.com)
+> ## Contributors
+> Ashwani Kumar (ashwink1502@gmail.com).
